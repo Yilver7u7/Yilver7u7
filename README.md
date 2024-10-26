@@ -45,7 +45,7 @@
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
     </a>
     <a href="https://nestjs.com/" target="_blank" rel="noreferrer">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40" />
+        <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Light.svg" width="40" height="40" />
     </a>
     <a href="https://react.dev/" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" />
@@ -63,8 +63,8 @@
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40" />
     </a>
     <a href="https://vercel.com/" target="_blank" rel="noreferrer">
-        <img src="https://www.vectorlogo.zone/logos/vercel/vercel-icon.svg" alt="vercel" width="40" height="40" />
-    </a>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vercel/vercel-original.svg" alt="vercel" width="40" height="40" style="border-radius: 10px;" />
+</a>
     <a href="https://astro.build/" target="_blank" rel="noreferrer">
         <img src="https://astro.build/assets/press/astro-icon-light.svg" alt="astro" width="40" height="40" />
     </a>
@@ -119,7 +119,7 @@
 
 <div align="center">
   :heart_eyes: Thanks for watching my profile! Have a nice day! :wink: <br/>
-  &copy; 2024 ashu-guo
+  &copy; 2024 Yilver Garcia
 </div>
 
 
