@@ -99,6 +99,8 @@
 </p>
 
 ## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+
+<p align="center">
 <!-- GitHub -->
   <a href="https://github.com/Yilver7u7" target="_blank">
     <img align="center" alt="Yilver | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
