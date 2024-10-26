@@ -70,6 +70,8 @@
     </a>
 </p>
 
+
+
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> My Statistics
 
 <table align="center">
@@ -90,31 +92,29 @@
 
 <p >
     <picture align="center">
-      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Yilver7u7/Yilver7u7/master/assets/github-contribution-grid-snake.svg">
-      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Yilver7u7/Yilver7u7/master/assets/github-contribution-grid-snake.svg">
-      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Yilver7u7//master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
+      <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/github-contribution-grid-snake.svg">
     </picture>
 </p>
 
-## <img src='https://raw.githubusercontent.com/Yilver7u7/Yilver7u7/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
-
-<p align="center">
-  <a href="https://Yilver7u7.github.io/blogs/" target="_blank">
-    <img align="center" alt="Yilver7u7 | blogs" width="24px" src="https://raw.githubusercontent.com/Yilver7u7/Yilver7u7/master/assets/vitepress.svg" />
+## <img src='https://raw.githubusercontent.com/ashu-guo/ashu-guo/main/assets/handshake.gif' width="70px" height="40px"> Connect Me Via
+<!-- GitHub -->
+  <a href="https://github.com/Yilver7u7" target="_blank">
+    <img align="center" alt="Yilver | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
   </a> &nbsp;&nbsp;
 
-  <a href="https://profile-summary-for-github.herokuapp.com/user/Yilver7u7" target="_blank">
-    <img align="center" alt="Yilver7u7 | GitHub" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/1024px-Github-desktop-logo-symbol.svg.png" />
+<!-- Gmail -->
+  <a href="mailto:yilversgg@gmail.com" >
+    <img align="center" alt="ashu-guo | Gmail" width="26px" src="https://raw.githubusercontent.com/ashu-guo/ashu-guo/master/assets/gmail.svg" />
   </a> &nbsp;&nbsp;
-
-  <a href="https://juejin.cn/user/3280598430653374" target="_blank">
-    <img align="center" alt="Yilver7u7 | juejin" width="24px" src="https://raw.githubusercontent.com/Yilver7u7/Yilver7u7/master/assets/juejin.svg" />
+<!-- LinkedIn -->
+  <a href="https://www.linkedin.com/in/yilver-garcia-4550bb219/" target="_blank">
+    <img align="center" alt="Yilver | LinkedIn" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" />
   </a> &nbsp;&nbsp;
-
-  <a href="mailto:guochengli1997@gmail.com" >
-    <img align="center" alt="Yilver7u7 | Gmail" width="26px" src="https://raw.githubusercontent.com/Yilver7u7/Yilver7u7/master/assets/gmail.svg" />
-  </a> &nbsp;&nbsp;
+  
 <p>
+
 
 
 <div align="center">
